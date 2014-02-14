@@ -1,0 +1,13 @@
+!SESSION 2014-02-13 15:41:03.851 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_20
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -application com.aptana.ide.desktop.integration.Application -application com.aptana.ide.desktop.integration.Application
+Command-line arguments:  -os win32 -ws win32 -arch x86 -application com.aptana.ide.desktop.integration.Application -data C:\Apache24\htdocs\simplesite -application com.aptana.ide.desktop.integration.Application
+
+!ENTRY org.eclipse.ui 4 4 2014-02-13 15:41:05.992
+!MESSAGE Unable to find view with id: com.aptana.ide.samples.SamplesView, when creating perspective com.aptana.ide.js.ui.WebPerspective
+
+!ENTRY org.eclipse.ui 4 4 2014-02-13 15:41:05.997
+!MESSAGE Unable to find Action Set: com.aptana.ide.server.ui.launchActionSet

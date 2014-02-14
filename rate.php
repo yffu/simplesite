@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
 	<head>
-	<title> Hospital Compare Redux - Home</title>
+	<title> Hospital Compare Redux - Rate Hospitals</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link href='http://fonts.googleapis.com/css?family=Bree+Serif|Merriweather|Merriweather+Sans' rel='stylesheet' type='text/css'>
 	<link href="_/bootstrap/css/bootstrap.css" rel="stylesheet" media="screen">
 	<link href="_/mystyle.css" rel="stylesheet" media="screen">
 	</head>
-	<body id="home">
+	<body id="rate">
 		
 		<section class="container">
 			<div class="content row">
